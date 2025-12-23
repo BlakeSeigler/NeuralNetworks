@@ -1,0 +1,1 @@
+These are just a bunch of example models I wanted. I had cursor make these and I study them. I may write these from scratch if I don't feel like I understand the details well enough.
