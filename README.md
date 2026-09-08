@@ -1,1 +1,16 @@
-These are just a bunch of example models I wanted. I had cursor make these and I study them. I may write these from scratch if I don't feel like I understand the details well enough.
+C++ implementationso f some common ML and RL things so I can learn some of the math at a low level. A few exampels of things
+
+- Neural Network Math
+- CNN Layer
+- Transformer Layer
+- RNN Layer
+- Backpropogation
+- (brief writeup on Adam optimizer)
+- LoRA
+- Q-Learning
+- Policy Optimization
+- Actor Critic?
+- Offline RL
+- Diffusion model
+- Flow matching
+- ...anything else? 
